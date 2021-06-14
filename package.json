@@ -1,0 +1,16 @@
+{
+  "name": "geometric-mean",
+  "version": "1.0.0",
+  "description": "Make a program that obtains the geometric mean of three numbers.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/geometric_mean"
+  },
+ 
+  "keywords": ["js","javascript","calculation","mean","geometric","backend"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
